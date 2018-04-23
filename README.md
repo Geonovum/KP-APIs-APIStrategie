@@ -1,2 +1,2 @@
 # KP-APIs-APIStrategie
-Werkgroep uitwerking nederlandse APIstrategie van het Kennisplatform APIs
+Werkgroep uitwerking nederlandse API strategie van het Kennisplatform APIs
